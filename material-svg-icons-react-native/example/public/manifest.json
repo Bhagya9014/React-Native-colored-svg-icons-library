@@ -1,0 +1,8 @@
+{
+  "short_name": "material-svg-icons-react-native",
+  "name": "material-svg-icons-react-native",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
